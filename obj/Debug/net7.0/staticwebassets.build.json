@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "MtcF8SKZbEbx+b4OvunM0bEB+eOF3cBVChiEUMbfs+0=",
+  "Source": "BasicAPI",
+  "BasePath": "_content/BasicAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BasicAPI\\wwwroot",
+      "Source": "BasicAPI",
+      "ContentRoot": "C:\\Users\\prati\\Downloads\\BasicAPI (3)\\BasicAPI\\wwwroot\\",
+      "BasePath": "_content/BasicAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
